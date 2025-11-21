@@ -1,0 +1,8 @@
+com\example\portable\Controller\LicenseController.class
+com\example\portable\PortableApplication.class
+com\example\portable\Services\LicenseService.class
+com\example\portable\Controller\SystemController.class
+com\example\portable\Util\PortPublishListener.class
+com\example\portable\Util\HardwareIdUtil.class
+com\example\portable\Services\HardwareService.class
+com\example\portable\Util\CryptoUtil.class
